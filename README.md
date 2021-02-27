@@ -6,7 +6,7 @@ Windows Server 2008.
 
 If you are using any version of Windows which is not Windows 10 or Windows
 Server 2016/2019 you are in luck, as Microsoft does still provide an OS update
-to restore the support for that old file format. In the opposite case, the only
+to restore the support for that old file format. If it isn't the case, the only
 solution is to resort to an hack by injecting the needed files, using the
 closest supported OS update (Windows 8.1 / Windows Server 2012 as of this
 writing) as the source.
